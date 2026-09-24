@@ -7,3 +7,5 @@ Key work:
 - Built an AlexNet CNN architecture from scratch as the baseline model and incorporated class weights to address class imbalance.
 - Developed a modified model using pretrained DenseNet121 with ImageNet weights and compared its performance against the baseline AlexNet model.
 - Evaluated both models using accuracy, precision, recall, F1-score, and confusion matrices, with DenseNet demonstrating stronger and more consistent classification performance.
+
+Dataset: https://www.kaggle.com/datasets/codewithsk/cherry-leaf-disease-on-plantcity-2025
